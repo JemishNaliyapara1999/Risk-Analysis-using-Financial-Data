@@ -1,0 +1,1 @@
+This group project involved risk analysis in six different scenarios in the lending business. I worked on the risk analysis of lending money for a secured loan and lending publically traded bonds. Risk factors such as collateral, volatility, correlation, leverage, and liquidity are considered in risk analysis.
